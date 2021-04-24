@@ -3,9 +3,9 @@
 }
 .top-page-header{
     width: 100vw;
-    padding: 5vh 10vw;
+    padding: 3vh 10vw;
     display: flex;
-    background-color: brown;
+    background-color: gold;
     justify-content: space-between;
 }
 
